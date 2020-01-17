@@ -9,7 +9,7 @@ fastman 是一个开发工具，提供idea插件帮助我们在开发阶段对�
 * idea安装fastman插件 [下载](https://github.com/jsdman/fastman-intellij/blob/master/fastman-intellij.zip)
 * 配置插件的agent path,ip一般为本机ip，端口号是自己的web项目的端口
 ![alt tag](https://github.com/jsdman/fastman-demo/blob/master/agent-path.png)
-* spring web项目引入agent jar包
+* spring web项目引入agent jar包 [fastman-agent](https://github.com/jsdman/fastman-agent)
 ```xml
       <dependency>
             <groupId>com.easycodingnow</groupId>
