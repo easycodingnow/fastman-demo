@@ -1,6 +1,4 @@
-#fastman
 fastman 是一个开发工具，提供idea插件帮助我们在开发阶段对代码进行快速调试
-
 
 # 使用效果展示
 ![alt tag](https://github.com/jsdman/fastman-demo/blob/master/fastman-demo1.gif)
