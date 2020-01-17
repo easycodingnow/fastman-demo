@@ -5,14 +5,13 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 /**
  * @author lihao
- * @since 2020-01-16
  */
 @Controller
 public class DemoController {
 
 
     /**
-     * @test ["1212"]
+     * @test ["testavc"]
      * @param test
      * @return
      */
@@ -20,4 +19,5 @@ public class DemoController {
     public Object test(String test){
         return  test;
     }
+
 }
