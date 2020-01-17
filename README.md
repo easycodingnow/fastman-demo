@@ -55,3 +55,6 @@ fastrunRecent快捷键：
 * windows: shift + ctrl + 2
 * mac:  shift + command + 2
 
+# 注意事项
+引用fastman-agent jar包理论上是给系统开了一个后门，请确保不要在线上使用，插件提供的只是开发阶段的调试功能，自己衡量好任何安全风险。
+
