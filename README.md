@@ -3,14 +3,14 @@ fastman 是一个开发工具，提供idea插件帮助我们在开发阶段对�
 
 
 # 使用效果展示
-![alt tag](https://raw.github.com/jsdman/fastman-demo/master/screenshots/fastman-demo1.gif)
-![alt tag](https://raw.github.com/jsdman/fastman-demo/master/screenshots/fasman-demo2.gif)
+![alt tag](https://github.com/jsdman/fastman-demo/blob/master/fastman-demo1.gif)
+![alt tag](https://github.com/jsdman/fastman-demo/blob/master/fasman-demo2.gif)
 
 
 # 使用方法
 * idea安装fastman插件 [下载](https://github.com/jsdman/fastman-intellij/blob/master/fastman-intellij.zip)
 * 配置插件的agent path,ip一般为本机ip，端口号是自己的web项目的端口
-![alt tag](https://raw.github.com/jsdman/fastman-demo/master/screenshots/agent-path.png)
+![alt tag](https://github.com/jsdman/fastman-demo/blob/master/agent-path.png)
 * spring web项目引入agent jar包
 ```xml
       <dependency>
